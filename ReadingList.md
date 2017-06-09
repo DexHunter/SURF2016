@@ -39,6 +39,15 @@
  * Windows: please use [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download). Public keys in Bitvise: https://www.bitvise.com/public-keys-in-ssh
  * After you have generate a key-pair on you computer, please send me your public key (I don't need your private key).
 
+#### Finance-related 
+* [forex](http://www.investopedia.com/university/forexmarket/forex1.asp)
+* [short](http://www.investopedia.com/terms/s/shortselling.asp)
+* [long](http://www.investopedia.com/terms/l/long.asp)
+* [sharpe ratio](http://www.investopedia.com/terms/s/sharperatio.asp)
+* [drawdown](http://www.investopedia.com/terms/d/drawdown.asp)
+* [course on computation investing](//www.coursera.org/learn/computational-investing)
+* more on [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+
 #### Traditional Methods(Try to search on Google with keyword to get simpler explanation first)
 * ubah
 * best
@@ -48,7 +57,7 @@
 * eg
 * ons
 * sp
-* m0
+* m0(markov 0-order)
 * anticor
 * bk
 * bnn
