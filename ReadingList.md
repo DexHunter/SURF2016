@@ -3,6 +3,25 @@
 ### Our Problem - Portfilio Management
 * [Online Portfolio Selection: A Survey](http://arxiv.org/abs/1212.2129)
 
+### Platform
+#### OANDA
+* [basic onada tutorial](https://www.oanda.com/forex-trading/learn/intro-to-currency-trading/)
+
+#### vnpy API for oanda
+* [soruce in Chinese](https://github.com/DexHunter/vnpy/tree/master/vnpy/api/oanda)
+
+### Finance-related
+#### basic terminology
+* [forex](http://www.investopedia.com/university/forexmarket/forex1.asp)
+* [short](http://www.investopedia.com/terms/s/shortselling.asp)
+* [long](http://www.investopedia.com/terms/l/long.asp)
+* [sharpe ratio](http://www.investopedia.com/terms/s/sharperatio.asp)
+* [drawdown](http://www.investopedia.com/terms/d/drawdown.asp)
+
+#### Courses & Resources
+* [course on computation investing](//www.coursera.org/learn/computational-investing)
+* more on [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+
 ### Methods
 #### Covolutional Neural Networks
 * eBook [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -11,6 +30,26 @@
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Long Short-Term Memory Based Recurrent Neural Network Architectures for Large Vocabulary Speech Recognition](http://arxiv.org/abs/1402.1128)
 * [LSTM: A Search Space Odyssey](http://arxiv.org/abs/1503.04069)
+
+#### Traditional Methods(Try to search on Google with keyword to get simpler explanation first)
+* ubah
+* best
+* ucrp
+* bcrp
+* up
+* eg
+* ons
+* sp
+* m0(markov 0-order)
+* anticor
+* bk
+* bnn
+* cornu
+* cornk
+* pamr
+* cwmr
+* olmar
+* rmr
 
 ### Programming with Python
 * http://www.tutorialspoint.com/python/
@@ -38,34 +77,3 @@
  * Mac: [Manually generating your SSH key in Mac OS X](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x)
  * Windows: please use [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download). Public keys in Bitvise: https://www.bitvise.com/public-keys-in-ssh
  * After you have generate a key-pair on you computer, please send me your public key (I don't need your private key).
-
-#### Finance-related 
-* [forex](http://www.investopedia.com/university/forexmarket/forex1.asp)
-* [short](http://www.investopedia.com/terms/s/shortselling.asp)
-* [long](http://www.investopedia.com/terms/l/long.asp)
-* [sharpe ratio](http://www.investopedia.com/terms/s/sharperatio.asp)
-* [drawdown](http://www.investopedia.com/terms/d/drawdown.asp)
-* [course on computation investing](//www.coursera.org/learn/computational-investing)
-* more on [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
-
-#### Traditional Methods(Try to search on Google with keyword to get simpler explanation first)
-* ubah
-* best
-* ucrp
-* bcrp
-* up
-* eg
-* ons
-* sp
-* m0(markov 0-order)
-* anticor
-* bk
-* bnn
-* cornu
-* cornk
-* pamr
-* cwmr
-* olmar
-* rmr
-
-
