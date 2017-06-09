@@ -38,3 +38,25 @@
  * Mac: [Manually generating your SSH key in Mac OS X](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x)
  * Windows: please use [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download). Public keys in Bitvise: https://www.bitvise.com/public-keys-in-ssh
  * After you have generate a key-pair on you computer, please send me your public key (I don't need your private key).
+
+#### Traditional Methods(Try to search on Google with keyword to get simpler explanation first)
+* ubah
+* best
+* ucrp
+* bcrp
+* up
+* eg
+* ons
+* sp
+* m0
+* anticor
+* bk
+* bnn
+* cornu
+* cornk
+* pamr
+* cwmr
+* olmar
+* rmr
+
+
