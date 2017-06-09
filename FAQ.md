@@ -6,8 +6,8 @@
   * Actually, you aren't doing that by hand. Instead, you are going to write a programme automatically doing it for you.
 
 * How long will the project last?
-  * Officially 10 weeks, from 20 June to 26 August 2017.
-
+  * The official range of the project is from 26 June to 1 September 2017.
+  
 * What is forex?
   * The foreign exchange maket is the "place" where currencies are traded
 
