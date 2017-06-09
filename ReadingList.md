@@ -6,6 +6,7 @@
 ### Platform
 #### OANDA
 * [basic onada tutorial](https://www.oanda.com/forex-trading/learn/intro-to-currency-trading/)
+* [fxTrade Manual](https://fxtrade.oanda.com/shared/documents/third_party/FXTrade_User_Manual.pdf)
 
 #### vnpy API for oanda
 * [soruce in Chinese](https://github.com/DexHunter/vnpy/tree/master/vnpy/api/oanda)
