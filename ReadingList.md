@@ -32,6 +32,10 @@
 * [Long Short-Term Memory Based Recurrent Neural Network Architectures for Large Vocabulary Speech Recognition](http://arxiv.org/abs/1402.1128)
 * [LSTM: A Search Space Odyssey](http://arxiv.org/abs/1503.04069)
 
+#### Deep Learning in General
+* [cs231n](http://cs231n.github.io/)
+* [deep learning book](http://www.deeplearningbook.org)
+
 #### Traditional Methods(Try to search on Google with keyword to get simpler explanation first)
 * ubah
 * best
